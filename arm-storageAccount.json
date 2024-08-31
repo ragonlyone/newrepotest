@@ -36,13 +36,8 @@
             }
         }
     ],
-    "outputs": {
-        "stgName": {
-            "type": "string",
-            "value": "value"
-        }
-    }
+    "outputs": {}
 
 
-    
+
 }
